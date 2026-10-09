@@ -2,6 +2,8 @@
 
 Implementation plan, one section per commit. Built to be handed to Claude Code one commit at a time.
 
+**Disclosure:** this project is built incrementally with Claude Code as a pair-programming tool. Each commit is generated from this plan, then reviewed and understood by the author (Shervin Shams) before being pushed — see the workflow below.
+
 ---
 
 ## How to use this file (for Shervin)
