@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# CMake / C++
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.obj
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.iml
+
+# OS
+.DS_Store
+
+# Env
+.env
